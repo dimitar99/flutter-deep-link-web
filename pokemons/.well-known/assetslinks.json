@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dimitaremilov.miscelaneos",
+            "sha256_cert_fingerprints": [
+                "E6:38:6F:22:92:C0:F7:ED:27:11:7D:B7:4E:6D:50:E2:72:24:26:60:CD:DD:4B:B4:BC:87:70:F8:06:A6:8D:DB"
+            ]
+        }
+    }
+]
